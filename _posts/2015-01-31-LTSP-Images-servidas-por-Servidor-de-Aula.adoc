@@ -1,8 +1,0 @@
-= LTSP Images servidas por Servidor de Aula
-
-:published_at: 2015-01-31
-:hp-tags: LTSP, aula, aula-servidor
-
-
-Durante este post vamos a comentar como se inician los LTSP en las aulas
-
