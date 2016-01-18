@@ -2,6 +2,7 @@
 
 :published_at: 2016-01-18
 :hp-tags: LTSP, aula, aula-servidor
+:hp-image: http://www.greaterlatrobe.net/seniorcenter/Computer%20Classroom%2010-05.jpg
 
 
 Durante este post vamos a comentar como se inician los LTSP en las aulas
