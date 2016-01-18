@@ -14,14 +14,14 @@ Los LTSP tienen activada la funcionalidad para pedir una imagen a través de la 
 Los archivos que hacen de imagen para los LTSP están en 
 
 ----
-/opt/i386
+/opt/ltsp/i386
 ----
 
 
 Se puede montar la imagen en el servidor de aula con
 
 ----
-chroot /opt/i386
+chroot /opt/ltsp/i386
 ----
 
 == Procesar imagen para LTSP
