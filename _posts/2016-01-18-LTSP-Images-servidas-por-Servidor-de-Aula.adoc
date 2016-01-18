@@ -5,5 +5,40 @@
 :hp-image: http://www.greaterlatrobe.net/seniorcenter/Computer%20Classroom%2010-05.jpg
 
 
-Durante este post vamos a comentar como se inician los LTSP en las aulas
+En las aulas los Servidores de Aula _(ordenador del profesor)_ se encargan de ofrecer la imagen a arrancar a los LTSP _(ordenadores de los alumnos)_
+
+Los LTSP tienen activada la funcionalidad para pedir una imagen a través de la Red, el Servidor de Aula es el encargado de proveer internet a los LTSP al mismo tiempo que hace de servidor DHCP.
+
+== Imagen LTSP
+
+Los archivos que hacen de imagen para los LTSP están en 
+
+----
+/opt/i386
+----
+
+
+Se puede montar la imagen en el servidor de aula con
+
+----
+chroot /opt/i386
+----
+
+== Procesar imagen para LTSP
+
+La imagen que se envía no es exactamente lo que hay en esa carpeta, hay que hacer un proceso de procesado y compresión, el archivo resultante es lo que se enviará a los LTSP cada vez que se arranquen.
+
+Para ello hay que ejecutar
+
+----
+ltsp-update-image --arch i386
+----
+
+Una vez termine ese proceso cuando los LTSP vuelvan a arrancar tendrán la nueva imagen con los cambios realizados
+
+
+
+
+
+
 
