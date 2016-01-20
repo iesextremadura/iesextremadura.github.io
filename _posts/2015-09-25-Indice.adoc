@@ -9,15 +9,20 @@ ____
 
 
 == Servidores (NFS/LDAP) +
-Configuración Básica - Conceptos +
-== Servidor de Aula +
-Configuración Básica - Conceptos +
-https://iesextremadura.github.io/2016/01/18/LTSP-Images-servidas-por-Servidor-de-Aula.html[LTSP Imágenes servidas por servidor de Aula] +
-== LTSP +
 Configuración Básica - Conceptos
+
+== Servidor de Aula
+
+Configuración Básica - Conceptos +
 https://iesextremadura.github.io/2016/01/18/LTSP-Images-servidas-por-Servidor-de-Aula.html[LTSP Imágenes servidas por servidor de Aula] +
-== Tareas rutinarias +
-== Scripts +
+
+== LTSP
+Configuración Básica - Conceptos +
+https://iesextremadura.github.io/2016/01/18/LTSP-Images-servidas-por-Servidor-de-Aula.html[LTSP Imágenes servidas por servidor de Aula] +
+
+== Tareas rutinarias
+
+== Scripts
 
 
 
