@@ -2,10 +2,10 @@
 
 :published_at: 2015-09-25
 
-[quote, Anónimo, 'Cualquier SysAdmin de Instituto cualquier día']
-____
-Ante cualquier problema, busca o pregunta por la lista
-____
+----
+"Ante cualquier problema, busca o pregunta por la lista"
+----
+
 
 
 == Servidores (NFS/LDAP) +
