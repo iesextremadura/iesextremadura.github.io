@@ -8,8 +8,11 @@
 
 
 
-== Servidores (NFS/LDAP) +
+== Servidores (NFS/LDAP)
 Configuración Básica - Conceptos
+
+== SIATIC
+https://docs.google.com/document/d/17lpxH8RlM5cRrEQoTyEhxcsh2Xt6v4N0MpxJ23BIKwk/edit[Instrucciones puesta en marcha SIATIC - GDocs, Documento Colaborativo]
 
 == Servidor de Aula
 
