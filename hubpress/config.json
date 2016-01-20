@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "iesextremadura",
-    "repositoryName": "iesextremadura.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"iesextremadura","repositoryName":"iesextremadura.github.io","branch":"master"},"site":{"title":"IES Extremadura","description":"IES Extremadura","postsPerPage":"10","disqus":"iesextremadura","url":"https://iesextremadura.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//iesextremadura.github.io/themes/Casper"}}
