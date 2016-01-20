@@ -8,22 +8,16 @@ Ante cualquier problema, busca o pregunta por la lista
 ____
 
 
-== Servidores (NFS/LDAP)
+== Servidores (NFS/LDAP) +
+Configuración Básica - Conceptos +
+== Servidor de Aula +
+Configuración Básica - Conceptos +
+https://iesextremadura.github.io/2016/01/18/LTSP-Images-servidas-por-Servidor-de-Aula.html[LTSP Imágenes servidas por servidor de Aula] +
+== LTSP +
 Configuración Básica - Conceptos
-
-== Servidor de Aula
-Configuración Básica - Conceptos
-
-https://iesextremadura.github.io/2016/01/18/LTSP-Images-servidas-por-Servidor-de-Aula.html[LTSP Imágenes servidas por servidor de Aula]
-
-== LTSP
-Configuración Básica - Conceptos
-
-https://iesextremadura.github.io/2016/01/18/LTSP-Images-servidas-por-Servidor-de-Aula.html[LTSP Imágenes servidas por servidor de Aula]
-
-== Tareas rutinarias
-
-== Scripts
+https://iesextremadura.github.io/2016/01/18/LTSP-Images-servidas-por-Servidor-de-Aula.html[LTSP Imágenes servidas por servidor de Aula] +
+== Tareas rutinarias +
+== Scripts +
 
 
 
